@@ -4,8 +4,8 @@
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
 https://raw.giteeusercontent.com/miaowancun/tv/raw/master/mw.txt?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJtdy50eHQiLCJ1aWQiOjE2Mzc1Mjc0LCJwaWQiOjQ2MDY4MTE4LCJzdG8iOiJnaXQtc2hhcmRpbmctc3RvLTEwdC0wMTgiLCJycCI6InJlcG9zL2E4LzRmL2E4NGY3MmU1YWUxOTdiOGVhODM4YTEwNzA4YjU5YjJkYjM1NTdkOWNjZGUyM2RjYmJjMjRlYmMwYjZmMGNjMmQuZ2l0IiwiaXNwIjp0cnVlLCJleHBpcmVfYXQiOjE3ODE0OTU0MDB9&signature=RBX5d-CytYw7kxQKsGVq04dGx0sl08Pm9-JdJTNgVEY
-
-
+https://gitee.com/szwxk/watch-television/raw/master/wxk.m3u
+https://ghfast.top/https://raw.githubusercontent.com/zhaiyaa/iptv-api/refs/heads/master/output/ipv4/result.m3u
 
 
 

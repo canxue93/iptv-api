@@ -9,8 +9,15 @@ name: 'Update schedule'
 # Many scheduled workflows from forks can cause workflows to be disabled.
 # If scheduled execution is required, use other deployment methods.
 
+# 修复1：授予代码写入权限，解决 git push exit code 128
+permissions:
+  contents: write
+
 on:
-  workflow_dispatch:
+  # 仅原仓库保留定时，Fork 请注释/删除下面 schedule 整段
+  schedule:
+    - cron: '55 16 * * *' # UTC16:55 = 北京时间次日00:55，每日自动更新
+  workflow_dispatch: # 保留手动触发
 
 jobs:
   push:
@@ -22,23 +29,32 @@ jobs:
       - name: Set branch name
         id: vars
         run: echo "BRANCH_NAME=${{ github.repository_owner == 'Guovin' && 'gd' || 'master' }}" >> $GITHUB_ENV
-      - uses: actions/checkout@v3
+
+      # 修复2：升级 checkout 到 v4，消除 Node20 废弃警告
+      - uses: actions/checkout@v4
         with:
           ref: ${{ env.BRANCH_NAME }}
+
+      # 修复3：升级 python 到 v5，消除 Node20 废弃警告
       - name: Run with setup-python 3.13
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.13'
           update-environment: true
           cache: 'pipenv'
+
       - name: Install FFmpeg
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
       - name: Install pipenv
         run: pip3 install --user pipenv
+
       - name: Install dependecies
         run: pipenv --python 3.13 && pipenv install --deploy
+
       - name: Update
         run: pipenv run dev
+
       - name: Commit and push if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -46,5 +62,6 @@ jobs:
           git add .
           if ! git diff --staged --quiet; then
             git commit -m "Github Action Auto Updated"
-            git push --force
+            # 修复4：替换危险 --force，避免覆盖他人代码
+            git push --force-with-lease origin ${{ env.BRANCH_NAME }}
           fi

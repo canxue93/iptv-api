@@ -4,7 +4,11 @@
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
 https://raw.githubusercontent.com/canxue93/iptv_api2/refs/heads/main/output/live_ipv4.txt
-
+https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Adult.m3u
+https://gitee.com/yuweirong6684/tv-live-streaming-source/raw/master/AD.txt
+https://ghfast.top/https://raw.githubusercontent.com/devsolux/iptv-playlist/refs/heads/master/playlist/ad.json
+https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt
+https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt
 
 
 [WHITELIST]

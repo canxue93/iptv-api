@@ -1,155 +1,123 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-07-11 07:36:51
-http://121.57.88.206:898/hls/3/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV3.png" group-title="📺央视频道",CCTV3
-http://121.57.88.206:898/hls/3/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-07-12 07:01:34
+https://live.264788.xyz/channel/cctv2?streamid=383d98765abf4549a5a799274f495f00&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV2.png" group-title="📺央视频道",CCTV2
+https://live.264788.xyz/channel/cctv2?streamid=383d98765abf4549a5a799274f495f00&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV4" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV4.png" group-title="📺央视频道",CCTV4
-https://live.264788.xyz/channel/cctv4?streamid=1efbca0be5bd36b4a23a71db15a0ce8a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV4" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV4.png" group-title="📺央视频道",CCTV4
-https://live.264788.xyz/channel/cctv4?streamid=d9c90dcbb55c328cbe6415daad8f9b79&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/cctv4?streamid=fd1184358330cda8bca2c2b1e36355f0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV5" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV5.png" group-title="📺央视频道",CCTV5
-https://live.264788.xyz/channel/cctv5?streamid=aeee9fc440a5f4bc1bb9574b65213f29&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV6" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV6.png" group-title="📺央视频道",CCTV6
-https://live.264788.xyz/channel/cctv6?streamid=0ef9fb30ed6fddd913a3226264c374ac&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV6" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV6.png" group-title="📺央视频道",CCTV6
-http://45.192.97.170:8880/play/154.m3u8
-#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV6" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV6.png" group-title="📺央视频道",CCTV6
-http://61.178.227.57:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+https://live.264788.xyz/channel/cctv6?streamid=cdf2a45cf92cd843c41935b9ad03fdb1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV7" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV7.png" group-title="📺央视频道",CCTV7
+https://live.264788.xyz/channel/cctv7?streamid=bfc46d4a96d2d9c0ab5d7e66527fbd0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV7" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV7.png" group-title="📺央视频道",CCTV7
+https://live.264788.xyz/channel/cctv7?streamid=479fea30e7639a9aeb0d647c41d49027&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV7" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV7.png" group-title="📺央视频道",CCTV7
 https://live.264788.xyz/channel/cctv7?streamid=043ecb8ede7fbe890d88633af70d7cb3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV8" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV8.png" group-title="📺央视频道",CCTV8
-https://live.264788.xyz/channel/cctv8?streamid=6a85d271479df7e4105c8edd745b4625&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV11" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV11.png" group-title="📺央视频道",CCTV11
-http://114.242.62.109:888/hls/11/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV12" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV12.png" group-title="📺央视频道",CCTV12
-https://live.264788.xyz/channel/cctv12?streamid=2ffaa6964c764868df1ed3aa59a57a7d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/cctv11?streamid=7b9945eb3e3a3628d7a273fff55b8d1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV13" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV13.png" group-title="📺央视频道",CCTV13
-http://222.169.85.8:9901/tsfile/live/0013_1.m3u8
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV13" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV13.png" group-title="📺央视频道",CCTV13
-http://222.223.41.27:8888/hls/13/index.m3u8
+http://120.202.94.181:9446/tsfile/live/0013_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV17" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV17.png" group-title="📺央视频道",CCTV17
+https://live.264788.xyz/channel/cctv17?streamid=12e368efbd799e724c61530988786b16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CETV1.png" group-title="📺央视频道",CETV1
 https://live.264788.xyz/channel/cetv1?streamid=1f850088bff0214dd9589e27a3aa3223&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CETV1.png" group-title="📺央视频道",CETV1
 https://live.264788.xyz/channel/cetv1?streamid=f1777f794d92011bba4f6796c0573287&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CETV1.png" group-title="📺央视频道",CETV1
 https://live.264788.xyz/channel/cetv1?streamid=5499155e72ecb123c418911e60349380&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CETV2.png" group-title="📺央视频道",CETV2
+https://live.264788.xyz/channel/cetv2?streamid=3b151aac648be5cd3b1ecfaa8a5b112e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
+https://live.264788.xyz/channel/guangdongweishi4k?streamid=33aeafbb59f2bcb1877c3a8229c0135b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
+https://live.264788.xyz/channel/guangdongweishi?streamid=2650b27e8aa5dd88d003b77f0e759abc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-http://45.192.97.170:8880/play/275.m3u8
+https://live.264788.xyz/channel/zhejiangweishi?streamid=25b7c6480cc4c9facb82d1cdf13693ec&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+https://live.264788.xyz/channel/zhejiangweishi?streamid=71f2f18b70580fb254c80c2189bf274d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
-http://45.192.97.170:8880/play/263.m3u8
+http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
-https://live.264788.xyz/channel/beijingweishi?streamid=41225e7b85c7ba5b42d4c3979cce5d73&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/beijingweishi?streamid=14da0d2cdf18d9845e3d9d4fc51357e0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
-http://45.192.97.170:8880/play/262.m3u8
+https://live.264788.xyz/channel/beijingweishi?streamid=ef3b375a76fa91e8a49f9aecda01f617&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
+https://live.264788.xyz/channel/beijingweishi?streamid=827ecb21a6a263faddc5d2aa1887dbc7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
 http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
-http://101.66.198.163:9901/tsfile/live/0016_1.m3u8
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/湖北卫视.png" group-title="📡卫视频道",湖北卫视
-http://222.223.41.27:8888/hls/41/index.m3u8
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
-https://live.264788.xyz/channel/heilongjiangweishi?streamid=9c1ab264c5f51571ce8602454b157f37&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/安徽卫视.png" group-title="📡卫视频道",安徽卫视
+https://live.264788.xyz/channel/anhuiweishi?streamid=a71db09d6da162eb65f7f918f3a4178c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/安徽卫视.png" group-title="📡卫视频道",安徽卫视
+https://live.264788.xyz/channel/anhuiweishi?streamid=fb8fe141f6787a1c084cd093425acf4d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/安徽卫视.png" group-title="📡卫视频道",安徽卫视
+https://live.264788.xyz/channel/anhuiweishi?streamid=16954d54656b5b53a77b37ae4aa4d1e6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/安徽卫视.png" group-title="📡卫视频道",安徽卫视
+https://live.264788.xyz/channel/anhuiweishi?streamid=6ad47f6ad8c42aa9e08a751bed820b1c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/重庆卫视.png" group-title="📡卫视频道",重庆卫视
+https://live.264788.xyz/channel/chongqingweishi?streamid=67cc81d963a7523e0fd449d3844b30bc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/重庆卫视.png" group-title="📡卫视频道",重庆卫视
 https://live.264788.xyz/channel/chongqingweishi?streamid=a70f858363ae250a4fbf283111a42054&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/重庆卫视.png" group-title="📡卫视频道",重庆卫视
-http://45.192.97.170:8880/play/282.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
-http://45.192.97.170:8880/play/264.m3u8
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/贵州卫视.png" group-title="📡卫视频道",贵州卫视
-http://45.192.97.170:8880/play/280.m3u8
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/海南卫视.png" group-title="📡卫视频道",海南卫视
+https://live.264788.xyz/channel/hainanweishi?streamid=22a384055e4a94909e17012c852ac26d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/河北卫视.png" group-title="📡卫视频道",河北卫视
-https://live.264788.xyz/channel/hebeiweishi?streamid=c623903495968308e1bd87ec273e46d2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/河北卫视.png" group-title="📡卫视频道",河北卫视
-http://114.242.62.109:888/hls/46/index.m3u8
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/吉林卫视.png" group-title="📡卫视频道",吉林卫视
-https://live.264788.xyz/channel/jilinweishi?streamid=a5e656c3fae17a05d1371c0e32cfbc77&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/吉林卫视.png" group-title="📡卫视频道",吉林卫视
-https://live.264788.xyz/channel/jilinweishi?streamid=4863b49f31c1bd97d35e5c9040b47f85&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/吉林卫视.png" group-title="📡卫视频道",吉林卫视
-https://live.264788.xyz/channel/jilinweishi?streamid=3a5e52dadf63aa29839e641b0a25a563&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://45.192.97.170:8880/play/411.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
+https://live.264788.xyz/channel/henanweishi?streamid=b08cc070cd8613ccaf17654f60883da8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
+https://live.264788.xyz/channel/liaoningweishi?streamid=8e4bf399048c5b055c39a5d79bff285d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
+https://live.264788.xyz/channel/liaoningweishi?streamid=a5721d1b827b5abda39797171e2c1a53&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
+https://live.264788.xyz/channel/neimengguweishi?streamid=50d587b08d9d6f642ec88593ebd51361&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
+https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
+https://live.264788.xyz/channel/ningxiaweishi?streamid=551474d02bee1c160e1692e22c45ddba&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
+https://live.264788.xyz/channel/ningxiaweishi?streamid=c5ab19386a4b4448aafa6d1eb94a4d4c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
+https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/青海卫视.png" group-title="📡卫视频道",青海卫视
-https://live.264788.xyz/channel/qinghaiweishi?streamid=c6ffe6f67dbdce61f7bf5af9d34e999a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/青海卫视.png" group-title="📡卫视频道",青海卫视
-https://live.264788.xyz/channel/qinghaiweishi?streamid=8aa812f4a2c7b1bee5c3447691ead3cf&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/qinghaiweishi?streamid=6d9039a20a59e79edc1d6b3a645a8e76&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/山东卫视.png" group-title="📡卫视频道",山东卫视
-http://114.242.62.109:888/hls/34/index.m3u8
+https://live.264788.xyz/channel/shandongweishi?streamid=bf9b7f517ea933966a973fa582f07137&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/四川卫视.png" group-title="📡卫视频道",四川卫视
-https://live.264788.xyz/channel/sichuanweishi?streamid=e0e4c1e9fb61857f5bc4b6bb9a2bdcca&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/四川卫视.png" group-title="📡卫视频道",四川卫视
-https://live.264788.xyz/channel/sichuanweishi?streamid=5386c588d4bbd34f863c7366b934f9d0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/四川卫视.png" group-title="📡卫视频道",四川卫视
-http://183.129.255.66:8480/hls/36/index.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
-https://live.264788.xyz/channel/shenzhenweishi?streamid=f12235d6d3e35c15aa302f9ab171b29a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://112.123.243.37:50085/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 https://live.264788.xyz/channel/shenzhenweishi?streamid=072918b734a19db666c1e3cd5aa2598c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
-https://live.264788.xyz/channel/shenzhenweishi?streamid=f98636f6df884178cf8214971427afc1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/天津卫视.png" group-title="📡卫视频道",天津卫视
-https://live.264788.xyz/channel/tianjinweishi?streamid=53f0f1a72f5c328bef6502a4b663fe9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/天津卫视.png" group-title="📡卫视频道",天津卫视
-https://live.264788.xyz/channel/tianjinweishi?streamid=d30a60392735d9a6ff2b72630d81c5d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/新疆卫视.png" group-title="📡卫视频道",新疆卫视
-https://live.264788.xyz/channel/xinjiangweishi?streamid=3511726477c06c73fec0bab6f61e7594&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/新疆卫视.png" group-title="📡卫视频道",新疆卫视
-https://live.264788.xyz/channel/xinjiangweishi?streamid=342945bcfa42b0c38e26f3dbe372a06a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/新疆卫视.png" group-title="📡卫视频道",新疆卫视
-https://live.264788.xyz/channel/xinjiangweishi?streamid=2b66bbca8d66afc1d8014d7fa046a55e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/云南卫视.png" group-title="📡卫视频道",云南卫视
-https://live.264788.xyz/channel/yunnanweishi?streamid=59a7b5e496b1ed2af50a575e9081c7e7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/云南卫视.png" group-title="📡卫视频道",云南卫视
-https://live.264788.xyz/channel/yunnanweishi?streamid=3ab1c660ac3a19f6884caf24c8d97390&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/央视台球.png" group-title="💰付费频道",央视台球
-https://live.264788.xyz/channel/yangshitaiqiu?streamid=04540cf3fa4df50b6e2fd9166c021d4b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/第一剧场.png" group-title="💰付费频道",第一剧场
-https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/第一剧场.png" group-title="💰付费频道",第一剧场
-https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/三沙卫视.png" group-title="📡卫视频道",三沙卫视
+https://live.264788.xyz/channel/sanshaweishi?streamid=d0a3642d102c45219333005531a2fc94&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/三沙卫视.png" group-title="📡卫视频道",三沙卫视
+https://live.264788.xyz/channel/sanshaweishi?streamid=b0f97355568c17a6d1ca3a67795ee670&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/风云剧场.png" group-title="💰付费频道",风云剧场
 https://live.264788.xyz/channel/fengyunjuchang?streamid=fb9584fe15e1e0bb2a733656352904fe&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/世界地理.png" group-title="💰付费频道",世界地理
-https://live.264788.xyz/channel/shijiedili?streamid=4db73bb90b7af6eb8506496390bb0d93&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/世界地理.png" group-title="💰付费频道",世界地理
-https://live.264788.xyz/channel/shijiedili?streamid=8a034b40397504e25b3775c772237996&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/凤凰中文.png" group-title="港台",凤凰中文
-http://45.192.97.170:8880/play/835.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/凤凰资讯.png" group-title="港台",凤凰资讯
-http://45.192.97.170:8880/play/854.m3u8
-#EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/NOW新闻台.png" group-title="港台",NOW新闻台
-http://45.192.97.170:8880/play/845.m3u8
-#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/八度空间.png" group-title="港台",八度空间
-http://45.192.97.170:8880/play/865.m3u8
-#EXTINF:-1 tvg-id="CHU" tvg-name="CHU" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CHU.png" group-title="港台",CHU
-http://45.192.97.170:8880/play/868.m3u8
-#EXTINF:-1 tvg-id="CH5" tvg-name="CH5" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CH5.png" group-title="港台",CH5
-http://45.192.97.170:8880/play/866.m3u8
-#EXTINF:-1 tvg-id="CH8" tvg-name="CH8" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CH8.png" group-title="港台",CH8
-http://45.192.97.170:8880/play/867.m3u8
-#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/澳视澳门.png" group-title="港台",澳视澳门
-http://45.192.97.170:8880/play/848.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/翡翠台.png" group-title="港台",翡翠台
-http://45.192.97.170:8880/play/859.m3u8
-#EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/靖天映画.png" group-title="🎬电影频道",靖天映画
-http://45.192.97.170:8880/play/911.m3u8
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/广东体育.png" group-title="🏀体育频道",广东体育
-http://45.192.97.170:8880/play/864.m3u8
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/风云剧场.png" group-title="💰付费频道",风云剧场
+https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/兵器科技.png" group-title="💰付费频道",兵器科技
+https://live.264788.xyz/channel/bingqikeji?streamid=530cb4e58bbc48b7fc26f5e0a2e47966&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/兵器科技.png" group-title="💰付费频道",兵器科技
+https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/山东体育.png" group-title="🏀体育频道",山东体育
 http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
-https://live.264788.xyz/channel/jinyingkatong?streamid=e103b40dd8fffaa99fd552f76e03ee0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
-https://live.264788.xyz/channel/jinyingkatong?streamid=790415358c6e852c799a2352d86cd719&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="经典动漫" tvg-name="经典动漫" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/经典动漫.png" group-title="🪁动画频道",经典动漫
-http://45.192.97.170:8880/play/1396.m3u8
+https://live.264788.xyz/channel/jinyingkatong?streamid=6bd8e7571b60048f177f05de68f25f68&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="火影忍者" tvg-name="火影忍者" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/火影忍者.png" group-title="🪁动画频道",火影忍者
+http://45.192.97.170:8880/play/1689.m3u8
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/游戏风云.png" group-title="🎮游戏频道",游戏风云
-https://live.264788.xyz/channel/youxifengyun?streamid=07e90ddeb9e01a72addf4dd310ebe1cf&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/youxifengyun?streamid=9d151740f57f6bd412bb6f101204b7bd&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV1.png" group-title="🈳无结果频道",CCTV1
 url
-#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV2.png" group-title="🈳无结果频道",CCTV2
+#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV3.png" group-title="🈳无结果频道",CCTV3
+url
+#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV8" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV8.png" group-title="🈳无结果频道",CCTV8
 url
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV9" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV9.png" group-title="🈳无结果频道",CCTV9
 url
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV10" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV10.png" group-title="🈳无结果频道",CCTV10
+url
+#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV12" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV12.png" group-title="🈳无结果频道",CCTV12
 url
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV14" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV14.png" group-title="🈳无结果频道",CCTV14
 url
@@ -157,21 +125,19 @@ url
 url
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV16" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV16.png" group-title="🈳无结果频道",CCTV16
 url
-#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV17" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV17.png" group-title="🈳无结果频道",CCTV17
-url
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV5+" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV5+.png" group-title="🈳无结果频道",CCTV5+
-url
-#EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CETV2.png" group-title="🈳无结果频道",CETV2
 url
 #EXTINF:-1 tvg-id="CETV-3" tvg-name="CETV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CETV3.png" group-title="🈳无结果频道",CETV3
 url
 #EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV4" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CETV4.png" group-title="🈳无结果频道",CETV4
 url
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/广东卫视.png" group-title="🈳无结果频道",广东卫视
-url
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/香港卫视.png" group-title="🈳无结果频道",香港卫视
 url
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/安徽卫视.png" group-title="🈳无结果频道",安徽卫视
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/湖北卫视.png" group-title="🈳无结果频道",湖北卫视
+url
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/黑龙江卫视.png" group-title="🈳无结果频道",黑龙江卫视
+url
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/东方卫视.png" group-title="🈳无结果频道",东方卫视
 url
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/东南卫视.png" group-title="🈳无结果频道",东南卫视
 url
@@ -179,31 +145,33 @@ url
 url
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/广西卫视.png" group-title="🈳无结果频道",广西卫视
 url
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/海南卫视.png" group-title="🈳无结果频道",海南卫视
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/贵州卫视.png" group-title="🈳无结果频道",贵州卫视
 url
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/河南卫视.png" group-title="🈳无结果频道",河南卫视
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/吉林卫视.png" group-title="🈳无结果频道",吉林卫视
 url
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/江苏卫视.png" group-title="🈳无结果频道",江苏卫视
 url
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/江西卫视.png" group-title="🈳无结果频道",江西卫视
 url
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/辽宁卫视.png" group-title="🈳无结果频道",辽宁卫视
-url
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/内蒙古卫视.png" group-title="🈳无结果频道",内蒙古卫视
-url
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/宁夏卫视.png" group-title="🈳无结果频道",宁夏卫视
-url
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/山西卫视.png" group-title="🈳无结果频道",山西卫视
 url
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/陕西卫视.png" group-title="🈳无结果频道",陕西卫视
 url
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/三沙卫视.png" group-title="🈳无结果频道",三沙卫视
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/天津卫视.png" group-title="🈳无结果频道",天津卫视
 url
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/西藏卫视.png" group-title="🈳无结果频道",西藏卫视
 url
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/新疆卫视.png" group-title="🈳无结果频道",新疆卫视
+url
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/云南卫视.png" group-title="🈳无结果频道",云南卫视
+url
 #EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/文化精品.png" group-title="🈳无结果频道",文化精品
 url
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/央视台球.png" group-title="🈳无结果频道",央视台球
+url
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/风云音乐.png" group-title="🈳无结果频道",风云音乐
+url
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/第一剧场.png" group-title="🈳无结果频道",第一剧场
 url
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/怀旧剧场.png" group-title="🈳无结果频道",怀旧剧场
 url
@@ -215,7 +183,7 @@ url
 url
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/电视指南.png" group-title="🈳无结果频道",电视指南
 url
-#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/兵器科技.png" group-title="🈳无结果频道",兵器科技
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/世界地理.png" group-title="🈳无结果频道",世界地理
 url
 #EXTINF:-1 tvg-id="CCTV-超清影视" tvg-name="CCTV-超清影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV-超清影视.png" group-title="🈳无结果频道",CCTV-超清影视
 url
@@ -271,13 +239,31 @@ url
 url
 #EXTINF:-1 tvg-id="靓妆频道" tvg-name="靓妆频道" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/靓妆频道.png" group-title="🈳无结果频道",靓妆频道
 url
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/凤凰中文.png" group-title="🈳无结果频道",凤凰中文
+url
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/凤凰资讯.png" group-title="🈳无结果频道",凤凰资讯
+url
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/无线新闻.png" group-title="🈳无结果频道",无线新闻
+url
+#EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/NOW新闻台.png" group-title="🈳无结果频道",NOW新闻台
 url
 #EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/TVBPlus.png" group-title="🈳无结果频道",TVBPlus
 url
 #EXTINF:-1 tvg-id="TVB功夫" tvg-name="TVB功夫" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/TVB功夫.png" group-title="🈳无结果频道",TVB功夫
 url
+#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/八度空间.png" group-title="🈳无结果频道",八度空间
+url
+#EXTINF:-1 tvg-id="CHU" tvg-name="CHU" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CHU.png" group-title="🈳无结果频道",CHU
+url
+#EXTINF:-1 tvg-id="CH5" tvg-name="CH5" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CH5.png" group-title="🈳无结果频道",CH5
+url
+#EXTINF:-1 tvg-id="CH8" tvg-name="CH8" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CH8.png" group-title="🈳无结果频道",CH8
+url
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/澳视澳门.png" group-title="🈳无结果频道",澳视澳门
+url
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/HOY77.png" group-title="🈳无结果频道",HOY77
+url
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/翡翠台.png" group-title="🈳无结果频道",翡翠台
 url
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/台视.png" group-title="🈳无结果频道",台视
 url
@@ -497,6 +483,8 @@ url
 url
 #EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/纬来电影.png" group-title="🈳无结果频道",纬来电影
 url
+#EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/靖天映画.png" group-title="🈳无结果频道",靖天映画
+url
 #EXTINF:-1 tvg-id="靖天戏剧" tvg-name="靖天戏剧" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/靖天戏剧.png" group-title="🈳无结果频道",靖天戏剧
 url
 #EXTINF:-1 tvg-id="星卫娱乐" tvg-name="星卫娱乐" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/星卫娱乐.png" group-title="🈳无结果频道",星卫娱乐
@@ -524,6 +512,8 @@ url
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV-5.png" group-title="🈳无结果频道",CCTV-5
 url
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV-5+.png" group-title="🈳无结果频道",CCTV-5+
+url
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/广东体育.png" group-title="🈳无结果频道",广东体育
 url
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/纬来体育.png" group-title="🈳无结果频道",纬来体育
 url
@@ -581,13 +571,13 @@ url
 url
 #EXTINF:-1 tvg-id="七龙珠" tvg-name="七龙珠" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/七龙珠.png" group-title="🈳无结果频道",七龙珠
 url
-#EXTINF:-1 tvg-id="火影忍者" tvg-name="火影忍者" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/火影忍者.png" group-title="🈳无结果频道",火影忍者
-url
 #EXTINF:-1 tvg-id="海绵宝宝" tvg-name="海绵宝宝" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/海绵宝宝.png" group-title="🈳无结果频道",海绵宝宝
 url
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/中华小当家.png" group-title="🈳无结果频道",中华小当家
 url
 #EXTINF:-1 tvg-id="猫和老鼠" tvg-name="猫和老鼠" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/猫和老鼠.png" group-title="🈳无结果频道",猫和老鼠
+url
+#EXTINF:-1 tvg-id="经典动漫" tvg-name="经典动漫" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/经典动漫.png" group-title="🈳无结果频道",经典动漫
 url
 #EXTINF:-1 tvg-id="蜡笔小新" tvg-name="蜡笔小新" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/蜡笔小新.png" group-title="🈳无结果频道",蜡笔小新
 url

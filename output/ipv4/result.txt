@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-03 02:04:27,http://120.211.62.180:8000/hls/18/index.m3u8
+2026-08-04 02:53:06,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 
 📺央视频道,#genre#
 
@@ -12,13 +12,13 @@
 BBC,#genre#
 
 ☘️江苏频道,#genre#
+苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 
 ☘️安徽频道,#genre#
 
 🎬电影频道,#genre#
 
 🏀体育频道,#genre#
-CCTV-5+,http://120.211.62.180:8000/hls/18/index.m3u8
 
 🪁动画频道,#genre#
 
@@ -200,7 +200,6 @@ NEWS,url
 睢宁资讯,url
 苏州4k,url
 苏州文化生活,url
-苏州新闻综合,url
 苏州生活资讯,url
 苏州社会经济,url
 贾汪旅游,url
@@ -258,6 +257,7 @@ IPTV经典电影,url
 东森洋片,url
 东森超视,url
 CCTV-5,url
+CCTV-5+,url
 广东体育,url
 纬来体育,url
 五星体育,url

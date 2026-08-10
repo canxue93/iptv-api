@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-08-10 01:31:44
-https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-#EXTINF:-1 tvg-id="苏州新闻综合" tvg-name="苏州新闻综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/苏州新闻综合.png" group-title="☘️江苏频道",苏州新闻综合
-https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-08-11 01:54:18
+url
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV1.png" group-title="🈳无结果频道",CCTV1
 url
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/CCTV2.png" group-title="🈳无结果频道",CCTV2
@@ -348,6 +346,8 @@ url
 #EXTINF:-1 tvg-id="苏州4k" tvg-name="苏州4k" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/苏州4k.png" group-title="🈳无结果频道",苏州4k
 url
 #EXTINF:-1 tvg-id="苏州文化生活" tvg-name="苏州文化生活" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/苏州文化生活.png" group-title="🈳无结果频道",苏州文化生活
+url
+#EXTINF:-1 tvg-id="苏州新闻综合" tvg-name="苏州新闻综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/苏州新闻综合.png" group-title="🈳无结果频道",苏州新闻综合
 url
 #EXTINF:-1 tvg-id="苏州生活资讯" tvg-name="苏州生活资讯" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/canxueguhong/livefanming/refs/heads/main/tv/苏州生活资讯.png" group-title="🈳无结果频道",苏州生活资讯
 url

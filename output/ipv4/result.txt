@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-18 01:27:11,url
+2026-08-19 01:28:13,http://120.238.94.82:9901/tsfile/live/1030_1.m3u8
 
 📺央视频道,#genre#
 
@@ -18,6 +18,7 @@ BBC,#genre#
 🎬电影频道,#genre#
 
 🏀体育频道,#genre#
+CCTV-5+,http://120.238.94.82:9901/tsfile/live/1030_1.m3u8
 
 🪁动画频道,#genre#
 
@@ -257,7 +258,6 @@ IPTV经典电影,url
 东森洋片,url
 东森超视,url
 CCTV-5,url
-CCTV-5+,url
 广东体育,url
 纬来体育,url
 五星体育,url

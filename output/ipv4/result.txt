@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-25 01:33:46,url
+2026-08-26 01:34:07,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 
 📺央视频道,#genre#
 
@@ -12,6 +12,7 @@
 BBC,#genre#
 
 ☘️江苏频道,#genre#
+苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 
 ☘️安徽频道,#genre#
 
@@ -201,7 +202,6 @@ NEWS,url
 苏州文化生活,url
 苏州新闻综合,url
 苏州生活资讯,url
-苏州社会经济,url
 贾汪旅游,url
 赣榆新闻综合,url
 连云港公共,url

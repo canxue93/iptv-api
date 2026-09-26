@@ -1,33 +1,4 @@
 # 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
-/audio/
-bxtv.3a.ink
-http://122.152.202.33/s/81a8a44f/
-audio
-https://live.264788.xyz/channel/
-http://110.42.52.180:6688/live
-http://38.75.136.137:98/gslb/dsdqbv
-http://204.12.221.218:8181/3m1080p/cctv1.m3u8
-https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
-https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
-http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
-http://192.151.150.154/live/cctv13hd.m3u8
-http://192.151.150.154/live/cctv15hd.m3u8
-http://107.150.60.122/live/cctv11hd.m3u8
-http://107.150.60.122/live/cctv10hd.m3u8
-http://192.151.150.154/live/cctv14hd.m3u8
-http://107.150.60.122/live/cctv15hd.m3u8
-http://107.150.60.122/live/cctv16hd.m3u8
-http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
-http://192.151.150.154/live/cctv11hd.m3u8
-http://107.150.60.122/live/cctv14hd.m3u8
-http://192.151.150.154/live/cctv12hd.m3u8
-http://192.151.150.154/live/cctv10hd.m3u8
-http://192.151.150.154/live/cctv17hd.m3u8
-http://107.150.60.122/live/cctv13hd.m3u8
-https://live.264788.xyz/channel/cctv1?streamid=cccb6b9cad34d95eaf06a39fcf6acd9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-http://120.76.248.139/live/bfgd/4200000489.m3u8
-http://120.76.248.139/live/bfgd/4200000484.m3u8
-http://118.193.115.2:9901/tsfile/live/0001_1.m3u8?key=txiptv
-http://173.208.212.130:8181/1080p/cctv1.m3u8
-http://198.204.228.26/live/cctv1hd.m3u8
+/audio
+
